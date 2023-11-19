@@ -3,12 +3,12 @@
 .h1 {
     text-align: center;
     color: red;
-    font-size: 70px;
+    font-size: 40px;
 }
 
 .img {
     margin-top: 10%;
-    height: 30vh;
+    height: 25vh;
     width: 20vw;
 }
 
@@ -17,6 +17,7 @@
     border-width: 2px;
     border-color: black;
     margin-bottom: 30px;
+    height: 35vh;
 }
 
 .h2 {
@@ -25,7 +26,7 @@
 }
 
 .img2 {
-    width: 4vw;
+    width: 6vw;
 }
 
 .p2 {
@@ -34,8 +35,8 @@
 
 .pf {
     text-align: center;
-    font-size: 40px;
-    padding-bottom: 3vh;
+    font-size: 20px;
+    padding-bottom: 2vh;
 }
 
 .p {
@@ -46,11 +47,21 @@
     margin-top: 15vh;
     color: #0E5A7B;
 }
-.card{
+
+.c2 {
+    color: #0E5A7B;
+}
+
+.card {
     border-style: solid;
     border-width: 2px;
     border-color: green;
 }
+
+.ph {
+    margin-left: 3vw;
+}
+
 .img3 {
     width: 50%;
     height: 20vh;
@@ -58,4 +69,47 @@
     border-style: solid;
     border-width: 2px;
     border-color: green;
+}
+
+.img4 {
+    width: 50%;
+    height: 20vh;
+    border-radius: 50%;
+}
+
+.hp1 {
+    color: #3498db;
+    text-shadow: 2px 2px 4px #bdc3c7;
+}
+
+.hp2 {
+    color: #2ecc71;
+    text-shadow: 2px 2px 4px #bdc3c7;
+}
+
+.body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.imgn {
+    border-radius: 50%;
+    margin-right: 10px;
+    box-shadow: 3px 3px 5px #888888;
+}
+
+.professional {
+    background-color: #ecf0f1;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.personal {
+    background-color: #d7dbdd;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
 }

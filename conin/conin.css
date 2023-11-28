@@ -135,7 +135,7 @@
 }
 
 .holder {
-    margin-left: 20px;
+    width: 35vw;
 }
 
 .buttonl {
@@ -157,6 +157,10 @@
     text-align: center;
     font-size: 20px;
     width: 15vw;
+}
+
+.heading4:hover {
+    cursor: pointer;
 }
 
 .h12 {
@@ -219,11 +223,12 @@
     background-color: aquamarine;
     padding: 40px;
     width: 75vw;
+    height: 60vh;
     border-radius: 30px;
 }
 
 .space {
-    margin-top: 200px;
+    margin-top: 17vh;
 }
 
 .card {
@@ -237,13 +242,13 @@
 }
 
 .box1 {
-    width: 15%;
+    width: 20%;
     background-color: transparent;
 }
 
 .box2 {
     padding-left: 200px;
-
+    padding-top: 6%;
 }
 
 .space2 {
@@ -269,6 +274,7 @@
 
 .up {
     width: 100vw;
+    padding-top: 30px;
 }
 
 .icon {
@@ -286,4 +292,63 @@
 
 .set3 {
     margin-left: 12vw;
+}
+
+.employer_index {
+    background-color: #87cefa;
+    border-radius: 20px;
+    padding-top: 10px;
+    margin-bottom: 40px;
+}
+
+.dashboard {
+    margin-left: 30px;
+    color: #0000EE;
+}
+
+.dashboard:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.employer_index h2 {
+    font-size: 15px;
+}
+
+.dashboardn {
+    background-color: purple;
+    color: white;
+    margin-left: 30px;
+    height: 100%;
+}
+
+.dashboardn:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.brightn {
+    background-color: transparent;
+}
+
+.brightn:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.bright {
+    color: #0000EE;
+}
+
+.blur {
+    color: grey;
+}
+
+.clients {
+    text-align: center;
+    font-size: 15px;
+}
+
+.heading5 {
+    color: red;
 }

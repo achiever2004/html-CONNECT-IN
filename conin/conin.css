@@ -223,7 +223,7 @@
     background-color: aquamarine;
     padding: 40px;
     width: 75vw;
-    height: 60vh;
+
     border-radius: 30px;
 }
 
@@ -309,6 +309,8 @@
 .dashboard:hover {
     text-decoration: underline;
     cursor: pointer;
+    background-color: purple;
+    color: white;
 }
 
 .employer_index h2 {
@@ -323,6 +325,8 @@
 }
 
 .dashboardn:hover {
+    background-color: purple;
+    color: white;
     cursor: pointer;
     text-decoration: underline;
 }
@@ -351,4 +355,138 @@
 
 .heading5 {
     color: red;
+}
+
+.tools {
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.tools_main {
+    padding-left: 30vw;
+}
+
+.post_space {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.Box_post {
+    background-color: #DDF2FD;
+    border-radius: 20px;
+    padding-bottom: 25px;
+    width: 70%;
+    margin-left: 15%;
+}
+
+.Box_Browse_posts {
+    border-radius: 10px;
+    background-color: wheat;
+    margin-left: 30px;
+    padding-right: 30vw;
+}
+
+.Box_recentpost {
+    background-color: #87cefa;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 50vw;
+}
+
+.post_space1 {
+    margin-left: 50%;
+    margin-top: 25px;
+    padding-left: 70px;
+}
+
+.post_space3 {
+    height: 20px;
+}
+
+.search_post {
+    margin-left: 20px;
+    margin-top: 12px;
+}
+
+.button2 {
+    margin-bottom: 20px;
+}
+
+.search_post {
+    margin-left: 20px;
+    margin-top: 12px;
+}
+
+.Box_inbox {
+    background-color: #DDF2FD;
+    border-radius: 20px;
+    width: 60vw;
+    margin-left: 20vw;
+    padding: 20px;
+}
+
+.Box_Browse_inbox {
+    border-radius: 10px;
+    background-color: wheat;
+    margin-left: 20px;
+    padding-right: 30vw;
+    margin-top: 10px;
+}
+
+.search_inbox {
+    margin-left: 20px;
+    margin-top: 12px;
+}
+
+.house_inbox {
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.Groups_inbox {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.Groups_inbox:hover {
+    background-color: purple;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.space_inbox1 {
+    text-align: center;
+    margin-left: 40px;
+}
+
+.Box_feedback {
+    background-color: #DDF2FD;
+    width: 70vw;
+    margin-left: 15vw;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.space_feedback0 {
+    margin-top: 20px;
+}
+
+.space_feedback1 {
+    margin-left: 30%;
+    margin-top: 20px;
+}
+
+.space_feedback2 {
+    margin-left: 15%;
+    margin-top: 20px;
+}
+
+.space_feedback3 {
+    text-align: center;
+}
+
+.announcement_feedback {
+    margin-left: 26vw;
 }
